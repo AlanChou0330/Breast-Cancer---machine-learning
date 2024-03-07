@@ -1,4 +1,4 @@
-## 資料:
+## 資料來源:
     數據資料來源為美國加利福尼亞大學爾灣分校UCI的開源資料https://archive.ics.uci.edu/裡的
     https://archive.ics.uci.edu/dataset/161/mammographic+mass 乳房X光數值
 
