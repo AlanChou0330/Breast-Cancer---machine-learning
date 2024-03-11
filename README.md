@@ -18,7 +18,7 @@
 
 # 詳細流程:
 ### 先對資料進行基本的前處理、標準化: 
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data1.png" width="500"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data1.png" width="550"/>
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data2.png" width="400"/>
 
 ### 在繪製出直方圖和箱線圖來更直觀的看到資料前處理以及標準化帶來的變化:
