@@ -17,7 +17,7 @@
     3.判斷哪個更具有效益且更高的準確度
 
 # 詳細流程:
-### 先對資料進行基本的前處理、標準化: 
+## 1.對資料進行基本的前處理、標準化: 
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data1.png" width="550"/>
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data2.png" width="400"/>
 
@@ -30,5 +30,5 @@
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_3.png" width="600"/>
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_4.png" width="600"/>
 
-### 先用決策樹來訓練測試數據集:
+## 2.用決策樹來訓練測試數據集:
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/Decision Trees.png" width="900"/>
