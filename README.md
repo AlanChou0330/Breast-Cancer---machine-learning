@@ -18,5 +18,5 @@
 
 ## 詳細流程:
 **先對資料進行基本的前處理、標準化:**
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data1.png" width="400"/>
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data2.png" width="300"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data1.png" width="500"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data2.png" width="400"/>
