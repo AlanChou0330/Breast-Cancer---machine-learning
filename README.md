@@ -19,3 +19,4 @@
 ## 詳細流程:
 **先對資料進行基本的前處理 :**
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data1.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data2.png" width="600"/>
