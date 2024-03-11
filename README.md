@@ -48,3 +48,7 @@
 
 ## 7.用Logistic Regression邏輯迴歸來訓練測試數據集:
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_LogisticRegression.png" width="600"/>
+
+## 8.總結比較各模型準確率:
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_All.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_AllMean.png" width="600"/>
