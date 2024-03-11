@@ -32,22 +32,22 @@
 
 ## 2.用決策樹來訓練測試數據集:
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/Decision Trees.png" width="900"/>
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_DecisionTrees.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_DecisionTrees.png" width="900"/>
 
 ## 3.用隨機森林來訓練測試數據集:
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_RandomForest.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_RandomForest.png" width="900"/>
 
 ## 4.用SVM支撐向量機來訓練測試數據集:
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_SVM.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_SVM.png" width="900"/>
 
 ## 5.用KNN來訓練測試數據集:
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_KNN.png" width="900"/>
 
 ## 6.用Naive Bayes貝氏分類器來訓練測試數據集:
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_NaiveBayes.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_NaiveBayes.png" width="900"/>
 
 ## 7.用Logistic Regression邏輯迴歸來訓練測試數據集:
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_LogisticRegression.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_LogisticRegression.png" width="900"/>
 
 ## 8.總結比較各模型準確率:
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_All.png" width="900"/>
