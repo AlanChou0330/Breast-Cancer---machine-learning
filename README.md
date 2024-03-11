@@ -52,3 +52,5 @@
 ## 8.總結比較各模型準確率:
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_All.png" width="900"/>
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/cv_AllMean.png" width="900"/>
+
+# 經過實際測試，KNN模型展現出較高的準確性和可靠性，這一發現對於改善乳癌檢測流程，提高準確性，並減少誤診率具有重要意義，有望對提高乳癌患者的生存率和生活品質產生積極正面影響。
