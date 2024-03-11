@@ -23,12 +23,12 @@
 
 ### 在繪製出直方圖和箱線圖來更直觀的看到資料前處理以及標準化帶來的變化:
 ##### 直方圖
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_1.png" width="600"/>
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_2.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_1.png" width="800"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_2.png" width="800"/>
 
 ##### 箱線圖
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_3.png" width="600"/>
-<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_4.png" width="600"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_3.png" width="800"/>
+<img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_4.png" width="800"/>
 
 ## 2.用決策樹來訓練測試數據集:
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/Decision Trees.png" width="900"/>
