@@ -21,7 +21,7 @@
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data1.png" width="500"/>
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/data2.png" width="400"/>
 
-### 在繪製出直方圖和箱線圖來更直觀的看到資料處理以及標準化帶來的變化:
+### 在繪製出直方圖和箱線圖來更直觀的看到資料前處理以及標準化帶來的變化:
 ##### 直方圖
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_1.png" width="600"/>
 <img src="https://github.com/AlanChou0330/Breast-Cancer---machine-learning/blob/main/picture/DataPreprocessing_2.png" width="600"/>
