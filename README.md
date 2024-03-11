@@ -10,8 +10,11 @@
     然而，這種檢查需要對乳房進行緊壓，可能會引起疼痛和低劑量輻射，因此通常建議每1到2年進行一次檢查。
     由於檢測的準確性無法達到100%，因此我們希望通過應用AI機器學習技術來提高檢測準確率，並準確判斷腫瘤的性質，是良性還是惡性。
 
-## 步驟:
+## 大致步驟:
     1.先處理資料中含有缺失值或是極端值等數據不平等的情況再做標準化
     2.再使用各種機器學習中的模型來訓練和測試資料
-      Decision Trees、SVM、KNN、Naive Bayes、Logistic Regression等
+      Decision Trees、RandomForestClassifier、SVM、KNN、Naive Bayes、Logistic Regression
     3.判斷哪個更具有效益且更高的準確度
+
+## 詳細流程:
+
