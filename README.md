@@ -6,8 +6,8 @@
     由於檢測的準確性無法達到100%，因此我們希望通過應用AI機器學習技術來提高檢測準確率，並準確判斷腫瘤的性質，是良性還是惡性。
 
 # 資料來源:
-    數據資料來源為美國加利福尼亞大學爾灣分校UCI的開源資料https://archive.ics.uci.edu/裡的
-    https://archive.ics.uci.edu/dataset/161/mammographic+mass 乳房X光數值
+    數據資料來源為美國加利福尼亞大學爾灣分校UCI的開源資料<https://archive.ics.uci.edu/>裡的
+    <https://archive.ics.uci.edu/dataset/161/mammographic+mass> 乳房X光數值
 
 # 大致步驟:
     1.先處理資料中含有缺失值或是極端值等數據不平等的情況再做標準化
